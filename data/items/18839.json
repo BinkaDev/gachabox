@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18839",
+  "title": "Miracle Shield 30",
+  "imageFile": "itm_cm_sd_075.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV",
+    "Wind Resistance"
+  ],
+  "attributes": {
+    "MD": "18~96",
+    "HP": "63~336",
+    "DP": "30~132",
+    "HV": "1~6"
+  }
+}

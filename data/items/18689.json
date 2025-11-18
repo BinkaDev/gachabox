@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18689",
+  "title": "Miracle Shield 70",
+  "imageFile": "itm_cm_sd_075.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV",
+    "Wind Resistance"
+  ],
+  "attributes": {
+    "MD": "42~224",
+    "HP": "147~784",
+    "DP": "70~308",
+    "HV": "2~14"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18061",
+  "title": "Jen's Belt 30",
+  "imageFile": "itm_cm_clo_014.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "3",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "DP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "24~96",
+    "AC": "1~6",
+    "HP": "126~420",
+    "DP": "24~96",
+    "HV": "2~7"
+  }
+}

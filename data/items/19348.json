@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19348",
+  "title": "Kitty Earring 30",
+  "imageFile": "itm_cm_acc_046.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "3",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "24~96",
+    "AC": "1~6",
+    "LK": "2~7",
+    "HP": "84~336",
+    "HV": "2~7"
+  }
+}

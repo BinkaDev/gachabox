@@ -1,0 +1,20 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70456",
+  "title": "Miracle Jen 30",
+  "imageFile": "itm_cm_pet_097.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "30",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "48~144",
+    "AC": "1~6",
+    "HP": "84~378",
+    "DP": "24~108",
+    "HV": "3~9",
+    "HP Recovery Rate": "3"
+  }
+}

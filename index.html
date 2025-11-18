@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Eclipse Box Viewer</title>
+
+  <!-- 귀여운 폰트 하나 가져옴 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
+
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="logo">📦</div>
+    <div>
+      <h1>Eclipse Box Viewer</h1>
+      <small>가챠 박스 안 아이템 한눈에 보기</small>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <label for="boxSelect">박스 선택</label>
+    <select id="boxSelect"></select>
+    <span id="loadStatus" class="muted"></span>
+  </div>
+
+  <div class="layout">
+    <!-- 왼쪽: 박스 정보 -->
+    <section class="card" id="boxInfo">
+      <div class="box-header">
+        <img id="boxImage" alt="box icon">
+        <div>
+          <div class="box-title" id="boxTitle">-</div>
+          <div class="tag-row" id="boxTags"></div>
+        </div>
+      </div>
+
+      <div class="stats-grid" id="boxStats"></div>
+
+      <div class="section-title">설명</div>
+      <p class="desc" id="boxDesc">-</p>
+    </section>
+
+    <!-- 오른쪽: 아이템 목록 + 디테일 -->
+    <section>
+      <div class="card">
+        <div class="items-header">
+          <h2>🎁 Box Items</h2>
+          <span class="muted" id="boxItemCount">0 items</span>
+        </div>
+        <div style="overflow-x:auto;">
+          <table>
+            <thead>
+            <tr>
+              <th style="width:32px;"></th>
+              <th>이름</th>
+              <th style="width:60px;">개수</th>
+              <th style="width:80px;">확률</th>
+            </tr>
+            </thead>
+            <tbody id="itemsTbody">
+            <!-- JS가 채움 -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card" id="itemDetailCard" style="margin-top:14px;">
+        <h2>🔍 Item Detail</h2>
+        <div id="itemDetailArea" class="muted">아이템을 클릭하면 상세 정보를 보여줄게.</div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17189",
+  "title": "Kitty Paw 70",
+  "imageFile": "itm_cm_wp_081.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "HP",
+    "HV",
+    "Wind Attribute"
+  ],
+  "attributes": {
+    "AP": "56~252",
+    "HP": "196~882",
+    "HV": "5~22"
+  }
+}

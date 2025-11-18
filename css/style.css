@@ -1,0 +1,270 @@
+   * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      background: radial-gradient(circle at top, #ffeef7 0, #f6f7ff 40%, #e9f4ff 100%);
+      font-family: "Nunito", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #222;
+    }
+
+    .app {
+      max-width: 1100px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 18px;
+      box-shadow: 0 14px 40px rgba(0,0,0,0.10);
+      padding: 24px 28px 28px;
+      backdrop-filter: blur(6px);
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    header .logo {
+      font-size: 32px;
+    }
+
+    header h1 {
+      font-family: "Baloo 2", cursive;
+      font-size: 28px;
+      margin: 0;
+    }
+
+    header small {
+      display: block;
+      font-size: 12px;
+      color: #777;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    label {
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    select {
+      min-width: 200px;
+      padding: 6px 10px;
+      font-size: 14px;
+      border-radius: 999px;
+      border: 1px solid #d0d3ff;
+      background: #f6f7ff;
+      outline: none;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(260px, 320px) minmax(0, 1fr);
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 16px 18px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+      border: 1px solid #f0f2ff;
+    }
+
+    .card h2 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .muted {
+      font-size: 13px;
+      color: #777;
+    }
+
+    .box-header {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+    }
+
+    .box-header img {
+      width: 72px;
+      height: 72px;
+      image-rendering: pixelated;
+    }
+
+    .box-title {
+      font-family: "Baloo 2", cursive;
+      font-size: 20px;
+    }
+
+    .tag-row {
+      margin-top: 4px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag-chip {
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: #fef3c7;
+      color: #92400e;
+      border: 1px solid #fde68a;
+    }
+
+    .tag-chip:nth-child(2) {
+      background: #e0f2fe;
+      color: #075985;
+      border-color: #bae6fd;
+    }
+
+    .tag-chip:nth-child(3) {
+      background: #fee2e2;
+      color: #b91c1c;
+      border-color: #fecaca;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+      margin-top: 12px;
+      font-size: 13px;
+    }
+
+    .stat-box {
+      border-radius: 10px;
+      padding: 8px 10px;
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+    }
+
+    .stat-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #9ca3af;
+    }
+
+    .stat-value {
+      margin-top: 2px;
+      font-weight: 700;
+    }
+
+    .section-title {
+      margin-top: 12px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .desc {
+      margin-top: 4px;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .items-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    th, td {
+      padding: 6px 8px;
+      text-align: left;
+    }
+
+    th {
+      background: #f4f5ff;
+      color: #4b5563;
+      font-weight: 600;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    tbody tr:nth-child(even) {
+      background: #f9fafb;
+    }
+
+    tbody tr:hover {
+      background: #eef2ff;
+      cursor: pointer;
+    }
+
+    .item-icon {
+      width: 24px;
+      height: 24px;
+      image-rendering: pixelated;
+    }
+
+    .pill {
+      display: inline-block;
+      padding: 1px 8px;
+      border-radius: 999px;
+      background: #e5f3ff;
+      color: #1d4ed8;
+      font-size: 11px;
+      margin-left: 4px;
+    }
+
+    #itemDetailArea {
+      margin-top: 12px;
+      font-size: 13px;
+    }
+
+    #itemDetailArea .item-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+
+    #itemDetailArea img {
+      width: 40px;
+      height: 40px;
+      image-rendering: pixelated;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 4px 0;
+    }
+
+    .badge {
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: #ecfdf5;
+      color: #047857;
+      border: 1px solid #bbf7d0;
+    }
+
+    .error {
+      color: #b91c1c;
+    }

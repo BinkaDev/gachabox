@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70349",
+  "title": "Bika the Bull 50",
+  "imageFile": "itm_cm_pet_122.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "50",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "80~240",
+    "AC": "5~15",
+    "MP Recovery Rate": "2",
+    "LK": "2~11",
+    "HP": "140~630",
+    "HV": "2~11",
+    "HP Recovery Rate": "3"
+  }
+}
