@@ -2,9 +2,8 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <title>Eclipse Box Viewer</title>
+  <title>가차 박스 (데모)</title>
 
-  <!-- 귀여운 폰트 하나 가져옴 -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
@@ -16,7 +15,7 @@
   <header>
     <div class="logo">📦</div>
     <div>
-      <h1>Eclipse Box Viewer</h1>
+      <h1>Eclipse Box Viewer (Demo)</h1>
       <small>가챠 박스 안 아이템 한눈에 보기</small>
     </div>
   </header>
@@ -42,6 +41,8 @@
 
       <div class="section-title">설명</div>
       <p class="desc" id="boxDesc">-</p>
+       <div class="section-title">마이샵 가격</div>
+      <p class="desc" id="boxDesc"> 개발중 </p>
     </section>
 
     <!-- 오른쪽: 아이템 목록 + 디테일 -->
@@ -62,7 +63,6 @@
             </tr>
             </thead>
             <tbody id="itemsTbody">
-            <!-- JS가 채움 -->
             </tbody>
           </table>
         </div>
@@ -70,7 +70,7 @@
 
       <div class="card" id="itemDetailCard" style="margin-top:14px;">
         <h2>🔍 Item Detail</h2>
-        <div id="itemDetailArea" class="muted">아이템을 클릭하면 상세 정보를 보여줄게.</div>
+        <div id="itemDetailArea" class="muted">아이템을 클릭해주세요.</div>
       </div>
     </section>
   </div>

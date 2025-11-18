@@ -1,8 +1,5 @@
-// ===== 설정 =====
-// boxes.json 경로
+
 const BOXES_JSON_URL = "./data/boxes.json";
-// 개별 아이템 JSON 경로 템플릿 (id 기반)
-// 예: ./data/items/17339.json
 const ITEM_JSON_BASE = "./data/items/";
 
 let boxes = [];
@@ -13,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("boxSelect").addEventListener("change", onBoxChange);
 });
 
-// 박스 목록 로드
+
 async function loadBoxes() {
   const statusEl = document.getElementById("loadStatus");
   statusEl.textContent = "박스 데이터 로딩 중...";
@@ -23,7 +20,7 @@ async function loadBoxes() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    // 객체 1개든 배열이든 처리
+
     boxes = Array.isArray(data) ? data : [data];
 
     if (!boxes.length) {
@@ -31,7 +28,7 @@ async function loadBoxes() {
       return;
     }
 
-    // 셀렉트 채우기
+
     const select = document.getElementById("boxSelect");
     select.innerHTML = "";
     boxes.forEach((b, idx) => {
@@ -42,7 +39,7 @@ async function loadBoxes() {
     });
 
     statusEl.textContent = "";
-    // 첫 박스 렌더링
+  
     select.value = 0;
     renderBox(boxes[0]);
   } catch (e) {
@@ -57,11 +54,11 @@ function onBoxChange(e) {
   renderBox(boxes[idx]);
 }
 
-// 박스 정보 렌더링
+
 function renderBox(box) {
   currentBox = box;
 
-  // 이미지
+  
   const imgUrl = box.imageFile
     ? `./data/images/${box.imageFile}`
     : "";
@@ -75,7 +72,7 @@ function renderBox(box) {
     imgEl.style.visibility = "hidden";
   }
 
-  // 제목
+
   document.getElementById("boxTitle").textContent = box.title || "(제목 없음)";
 
 const tagKR = {
@@ -85,7 +82,7 @@ const tagKR = {
   
 };
 
-  // 태그
+
   const tagsWrap = document.getElementById("boxTags");
   tagsWrap.innerHTML = "";
   (box.tags || []).forEach(tag => {
@@ -99,7 +96,7 @@ const tagKR = {
 
 
 
-  // 테이블(레벨/값/무게) 
+ 
   const statsWrap = document.getElementById("boxStats");
   statsWrap.innerHTML = "";
   const table = box.table || {};
@@ -119,20 +116,20 @@ const tagKR = {
     }
   });
 
-  // 설명
+
   document.getElementById("boxDesc").textContent =
     box.description || "설명 없음";
 
-  // 아이템 목록
+  
   renderBoxItems(box.items || []);
 
-  // 아이템 상세 초기화
+
   const detailArea = document.getElementById("itemDetailArea");
   detailArea.classList.add("muted");
   detailArea.innerHTML = "아이템을 클릭하면 상세 정보를 보여줄게.";
 }
 
-// 박스 안 아이템 목록 렌더링
+
 function renderBoxItems(items) {
   const tbody = document.getElementById("itemsTbody");
   tbody.innerHTML = "";
@@ -153,7 +150,7 @@ function renderBoxItems(items) {
   items.forEach(item => {
     const tr = document.createElement("tr");
 
-    // icon
+   
     const tdIcon = document.createElement("td");
     const iconUrl = item.imgFile
       ? `./data/images/${item.imgFile}`
@@ -167,12 +164,12 @@ function renderBoxItems(items) {
     }
     tr.appendChild(tdIcon);
 
-    // name
+
     const tdName = document.createElement("td");
     tdName.textContent = item.name || "(이름 없음)";
     tr.appendChild(tdName);
 
-    // count
+
     const tdCount = document.createElement("td");
     tdCount.textContent = item.count || "";
     tr.appendChild(tdCount);
@@ -187,7 +184,7 @@ function renderBoxItems(items) {
   });
 }
 
-// 아이템 클릭 시 상세 불러오기
+
 async function onItemClick(item) {
   const detailArea = document.getElementById("itemDetailArea");
   detailArea.classList.remove("error");
@@ -207,7 +204,7 @@ async function onItemClick(item) {
   }
 }
 
-// 스탯 한글 매핑
+
 const statKR = {
   AP: "공격력",
   AC: "명중률",
@@ -225,7 +222,7 @@ const statKR = {
   
 };
 
-// 아이템 상세 렌더링
+
 function renderItemDetail(itemData, boxItemMeta) {
   const area = document.getElementById("itemDetailArea");
   area.classList.remove("error");
