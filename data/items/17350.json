@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17350",
+  "title": "Black Bison's Cane 210",
+  "imageFile": "itm_cm_wp_103.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "HP",
+    "Earth Attribute"
+  ],
+  "attributes": {
+    "AP": "252~1092",
+    "AC": "10~47",
+    "HP": "588~2646"
+  }
+}

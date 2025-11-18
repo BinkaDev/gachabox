@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19352",
+  "title": "Black Bison's Ring 90",
+  "imageFile": "itm_cm_acc_063.nri.001.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "9",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "MP",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "AP": "72~288",
+    "AC": "6~22",
+    "MP": "252~1008",
+    "LK": "4~18",
+    "HP": "378~1260"
+  }
+}

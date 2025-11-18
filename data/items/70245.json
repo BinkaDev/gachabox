@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70245",
+  "title": "Miracle Jen 140",
+  "imageFile": "itm_cm_pet_097.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "140",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "224~672",
+    "AC": "7~31",
+    "MP Recovery Rate": "3",
+    "HP": "392~1764",
+    "DP": "112~504",
+    "HV": "14~42",
+    "HP Recovery Rate": "4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18848",
+  "title": "Black Bison's Shield 90",
+  "imageFile": "itm_cm_sd_097.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "HP"
+  ],
+  "attributes": {
+    "AC": "3~18",
+    "MD": "54~288",
+    "HP": "189~1008",
+    "DP": "90~396"
+  }
+}

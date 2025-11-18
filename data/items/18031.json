@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18031",
+  "title": "Jen's Belt 140",
+  "imageFile": "itm_cm_clo_014.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "14",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "DP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "112~448",
+    "AC": "7~28",
+    "HP": "588~1960",
+    "DP": "112~448",
+    "HV": "10~35"
+  }
+}

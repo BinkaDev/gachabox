@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35110",
+  "title": "Black Bison's Cape 150",
+  "imageFile": "itm_cm_ck_031.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "AP": "180~600",
+    "AC": "10",
+    "MD": "300~300",
+    "LK": "11~37",
+    "HP": "630~2100",
+    "DP": "150~150"
+  }
+}

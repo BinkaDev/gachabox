@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18721",
+  "title": "Miracle Shield 190",
+  "imageFile": "itm_cm_sd_075.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "95",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV",
+    "Wind Resistance"
+  ],
+  "attributes": {
+    "MD": "114~608",
+    "HP": "399~2128",
+    "DP": "190~836",
+    "HV": "7~38"
+  }
+}

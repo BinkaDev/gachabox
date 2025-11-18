@@ -60,66 +60,6 @@
   ]
 },
 {
-  "url": "https://knowledge.lifeto.co/items/61814",
-  "title": "Bika the Bull Box 50",
-  "imageFile": "itm_ear_120.nri.001.000.png",
-  "tags": [
-    "Use Item",
-    "Untradeable",
-    "Undroppable"
-  ],
-  "table": {
-    "Level": "Lv. 50",
-    "Value": "0",
-    "Weight": "1"
-  },
-  "description": "A box with a random item! The items found inside are particularly suited for Buffalos.",
-  "items": [
-    {
-      "id": "70349",
-      "name": "Bika the Bull 50",
-      "imgFile": "itm_cm_pet_122.nri.000.000.png",
-      "count": "1",
-      "rate": "4.9%"
-    },
-    {
-      "id": "17297",
-      "name": "Black Bison's Cane 50",
-      "imgFile": "itm_cm_wp_103.nri.000.000.png",
-      "count": "1",
-      "rate": "23.53%"
-    },
-    {
-      "id": "17797",
-      "name": "Black Bison's Hat 50",
-      "imgFile": "itm_cm_ht_096.nri.000.000.png",
-      "count": "1",
-      "rate": "23.53%"
-    },
-    {
-      "id": "18797",
-      "name": "Black Bison's Shield 50",
-      "imgFile": "itm_cm_sd_097.nri.000.000.png",
-      "count": "1",
-      "rate": "23.53%"
-    },
-    {
-      "id": "19237",
-      "name": "Black Bison's Ring 50",
-      "imgFile": "itm_cm_acc_063.nri.001.000.png",
-      "count": "1",
-      "rate": "22.55%"
-    },
-    {
-      "id": "431637",
-      "name": "Buffalo Accessory 50",
-      "imgFile": "itm_pre_001.nri.000.000.png",
-      "count": "1",
-      "rate": "1.96%"
-    }
-  ]
-},
-{
   "url": "https://knowledge.lifeto.co/items/61431",
   "title": "Cat Box 70",
   "imageFile": "itm_pre_066.nri.001.000.png",
@@ -183,6 +123,401 @@
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "3.16%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61433",
+  "title": "Cat Box 140",
+  "imageFile": "itm_pre_066.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box containing items from Jen's wardrobe and arsenal.",
+  "items": [
+    {
+      "id": "70245",
+      "name": "Miracle Jen 140",
+      "imgFile": "itm_cm_pet_097.nri.000.000.png",
+      "count": "1",
+      "rate": "5.21%"
+    },
+    {
+      "id": "17232",
+      "name": "Kitty Paw 140",
+      "imgFile": "itm_cm_wp_081.nri.000.000.png",
+      "count": "1",
+      "rate": "20.83%"
+    },
+    {
+      "id": "17718",
+      "name": "Cat's Earmuffs 140",
+      "imgFile": "itm_cm_ht_074.nri.000.000.png",
+      "count": "1",
+      "rate": "20.83%"
+    },
+    {
+      "id": "18720",
+      "name": "Miracle Shield 140",
+      "imgFile": "itm_cm_sd_075.nri.000.000.png",
+      "count": "1",
+      "rate": "20.83%"
+    },
+    {
+      "id": "18031",
+      "name": "Jen's Belt 140",
+      "imgFile": "itm_cm_clo_014.nri.000.000.png",
+      "count": "1",
+      "rate": "22.92%"
+    },
+    {
+      "id": "35049",
+      "name": "Jen's Cape 140",
+      "imgFile": "itm_cm_ck_022.nri.000.000.png",
+      "count": "1",
+      "rate": "4.17%"
+    },
+    {
+      "id": "431724",
+      "name": "Cat Accessory Box 140",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "5.21%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61435",
+  "title": "Cat Box 190",
+  "imageFile": "itm_pre_066.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box containing items from Jen's wardrobe and arsenal.",
+  "items": [
+    {
+      "id": "70246",
+      "name": "Miracle Jen 190",
+      "imgFile": "itm_cm_pet_097.nri.000.000.png",
+      "count": "1",
+      "rate": "5.38%"
+    },
+    {
+      "id": "17233",
+      "name": "Kitty Paw 190",
+      "imgFile": "itm_cm_wp_081.nri.000.000.png",
+      "count": "1",
+      "rate": "21.51%"
+    },
+    {
+      "id": "17719",
+      "name": "Cat's Earmuffs 190",
+      "imgFile": "itm_cm_ht_074.nri.000.000.png",
+      "count": "1",
+      "rate": "21.51%"
+    },
+    {
+      "id": "18721",
+      "name": "Miracle Shield 190",
+      "imgFile": "itm_cm_sd_075.nri.000.000.png",
+      "count": "1",
+      "rate": "21.51%"
+    },
+    {
+      "id": "18032",
+      "name": "Jen's Belt 190",
+      "imgFile": "itm_cm_clo_014.nri.000.000.png",
+      "count": "1",
+      "rate": "23.66%"
+    },
+    {
+      "id": "35050",
+      "name": "Jen's Cape 190",
+      "imgFile": "itm_cm_ck_022.nri.000.000.png",
+      "count": "1",
+      "rate": "3.23%"
+    },
+    {
+      "id": "431725",
+      "name": "Cat Accessory Box 190",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "3.23%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61814",
+  "title": "Bika the Bull Box 50",
+  "imageFile": "itm_ear_120.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box with a random item! The items found inside are particularly suited for Buffalos.",
+  "items": [
+    {
+      "id": "70349",
+      "name": "Bika the Bull 50",
+      "imgFile": "itm_cm_pet_122.nri.000.000.png",
+      "count": "1",
+      "rate": "4.9%"
+    },
+    {
+      "id": "17297",
+      "name": "Black Bison's Cane 50",
+      "imgFile": "itm_cm_wp_103.nri.000.000.png",
+      "count": "1",
+      "rate": "23.53%"
+    },
+    {
+      "id": "17797",
+      "name": "Black Bison's Hat 50",
+      "imgFile": "itm_cm_ht_096.nri.000.000.png",
+      "count": "1",
+      "rate": "23.53%"
+    },
+    {
+      "id": "18797",
+      "name": "Black Bison's Shield 50",
+      "imgFile": "itm_cm_sd_097.nri.000.000.png",
+      "count": "1",
+      "rate": "23.53%"
+    },
+    {
+      "id": "19237",
+      "name": "Black Bison's Ring 50",
+      "imgFile": "itm_cm_acc_063.nri.001.000.png",
+      "count": "1",
+      "rate": "22.55%"
+    },
+    {
+      "id": "431637",
+      "name": "Buffalo Accessory 50",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "1.96%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61815",
+  "title": "Bika the Bull Box 90",
+  "imageFile": "itm_ear_120.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box with a random item! The items found inside are particularly suited for Buffalos.",
+  "items": [
+    {
+      "id": "70468",
+      "name": "Bika the Bull 90",
+      "imgFile": "itm_cm_pet_122.nri.000.000.png",
+      "count": "1",
+      "rate": "4.9%"
+    },
+    {
+      "id": "17348",
+      "name": "Black Bison's Cane 90",
+      "imgFile": "itm_cm_wp_103.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "17948",
+      "name": "Black Bison's Hat 90",
+      "imgFile": "itm_cm_ht_096.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "18848",
+      "name": "Black Bison's Shield 90",
+      "imgFile": "itm_cm_sd_097.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "19352",
+      "name": "Black Bison's Ring 90",
+      "imgFile": "itm_cm_acc_063.nri.001.000.png",
+      "count": "1",
+      "rate": "21.57%"
+    },
+    {
+      "id": "35069",
+      "name": "Black Bison's Cape 90",
+      "imgFile": "itm_cm_ck_031.nri.000.000.png",
+      "count": "1",
+      "rate": "12.75%"
+    },
+    {
+      "id": "431638",
+      "name": "Buffalo Accessory 90",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "1.96%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61816",
+  "title": "Bika the Bull Box 150",
+  "imageFile": "itm_ear_120.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box with a random item! The items found inside are particularly suited for Buffalos.",
+  "items": [
+    {
+      "id": "70469",
+      "name": "Bika the Bull 150",
+      "imgFile": "itm_cm_pet_122.nri.000.000.png",
+      "count": "1",
+      "rate": "4.9%"
+    },
+    {
+      "id": "17349",
+      "name": "Black Bison's Cane 150",
+      "imgFile": "itm_cm_wp_103.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "17949",
+      "name": "Black Bison's Hat 150",
+      "imgFile": "itm_cm_ht_096.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "18849",
+      "name": "Black Bison's Shield 150",
+      "imgFile": "itm_cm_sd_097.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "19353",
+      "name": "Black Bison's Ring 150",
+      "imgFile": "itm_cm_acc_063.nri.001.000.png",
+      "count": "1",
+      "rate": "21.57%"
+    },
+    {
+      "id": "35110",
+      "name": "Black Bison's Cape 150",
+      "imgFile": "itm_cm_ck_031.nri.000.000.png",
+      "count": "1",
+      "rate": "12.75%"
+    },
+    {
+      "id": "431639",
+      "name": "Buffalo Accessory 150",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "1.96%"
+    }
+  ]
+},
+{
+  "url": "https://knowledge.lifeto.co/items/61817",
+  "title": "Bika the Bull Box 210",
+  "imageFile": "itm_ear_120.nri.001.000.png",
+  "tags": [
+    "Use Item",
+    "Untradeable",
+    "Undroppable"
+  ],
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "1"
+  },
+  "description": "A box with a random item! The items found inside are particularly suited for Buffalos.",
+  "items": [
+    {
+      "id": "70470",
+      "name": "Bika the Bull 210",
+      "imgFile": "itm_cm_pet_122.nri.000.000.png",
+      "count": "1",
+      "rate": "4.9%"
+    },
+    {
+      "id": "17350",
+      "name": "Black Bison's Cane 210",
+      "imgFile": "itm_cm_wp_103.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "17950",
+      "name": "Black Bison's Hat 210",
+      "imgFile": "itm_cm_ht_096.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "18850",
+      "name": "Black Bison's Shield 210",
+      "imgFile": "itm_cm_sd_097.nri.000.000.png",
+      "count": "1",
+      "rate": "19.61%"
+    },
+    {
+      "id": "19354",
+      "name": "Black Bison's Ring 210",
+      "imgFile": "itm_cm_acc_063.nri.001.000.png",
+      "count": "1",
+      "rate": "21.57%"
+    },
+    {
+      "id": "35111",
+      "name": "Black Bison's Cape 210",
+      "imgFile": "itm_cm_ck_031.nri.000.000.png",
+      "count": "1",
+      "rate": "12.75%"
+    },
+    {
+      "id": "431640",
+      "name": "Buffalo Accessory 210",
+      "imgFile": "itm_pre_001.nri.000.000.png",
+      "count": "1",
+      "rate": "1.96%"
     }
   ]
 }

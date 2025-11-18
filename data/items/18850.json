@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18850",
+  "title": "Black Bison's Shield 210",
+  "imageFile": "itm_cm_sd_097.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "HP"
+  ],
+  "attributes": {
+    "AC": "7~42",
+    "MD": "126~672",
+    "HP": "441~2352",
+    "DP": "210~924"
+  }
+}

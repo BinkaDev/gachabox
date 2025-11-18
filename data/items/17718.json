@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17718",
+  "title": "Cat's Earmuffs 140",
+  "imageFile": "itm_cm_ht_074.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "HV",
+    "Wind Resistance"
+  ],
+  "attributes": {
+    "AC": "3~24",
+    "MD": "56~392",
+    "DP": "112~448",
+    "HV": "7~28"
+  }
+}

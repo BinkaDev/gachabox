@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70470",
+  "title": "Bika the Bull 210",
+  "imageFile": "itm_cm_pet_122.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "336~1008",
+    "AC": "21~63",
+    "MP Recovery Rate": "5",
+    "LK": "10~47",
+    "HP": "588~2646",
+    "HV": "10~47",
+    "HP Recovery Rate": "5"
+  }
+}

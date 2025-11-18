@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19354",
+  "title": "Black Bison's Ring 210",
+  "imageFile": "itm_cm_acc_063.nri.001.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "21",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "MP",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "AP": "168~672",
+    "AC": "15~52",
+    "MP": "588~2352",
+    "LK": "10~42",
+    "HP": "882~2940"
+  }
+}

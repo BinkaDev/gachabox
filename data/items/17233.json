@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17233",
+  "title": "Kitty Paw 190",
+  "imageFile": "itm_cm_wp_081.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "190",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "HP",
+    "HV",
+    "Wind Attribute"
+  ],
+  "attributes": {
+    "AP": "152~684",
+    "HP": "532~2394",
+    "HV": "14~61"
+  }
+}

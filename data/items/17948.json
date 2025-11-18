@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17948",
+  "title": "Black Bison's Hat 90",
+  "imageFile": "itm_cm_ht_096.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "LK"
+  ],
+  "attributes": {
+    "AC": "4~18",
+    "MD": "36~252",
+    "LK": "2~15",
+    "DP": "72~288"
+  }
+}

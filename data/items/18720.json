@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18720",
+  "title": "Miracle Shield 140",
+  "imageFile": "itm_cm_sd_075.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV",
+    "Wind Resistance"
+  ],
+  "attributes": {
+    "MD": "84~448",
+    "HP": "294~1568",
+    "DP": "140~616",
+    "HV": "5~28"
+  }
+}

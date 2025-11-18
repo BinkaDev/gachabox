@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35111",
+  "title": "Black Bison's Cape 210",
+  "imageFile": "itm_cm_ck_031.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "21",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "AP": "252~840",
+    "AC": "10",
+    "MD": "420~420",
+    "LK": "15~52",
+    "HP": "882~2940",
+    "DP": "210~210"
+  }
+}
