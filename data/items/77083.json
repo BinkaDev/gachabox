@@ -1,0 +1,24 @@
+{
+  "url": "https://knowledge.lifeto.co/items/77083",
+  "title": "Mane of Night 90",
+  "imageFile": "itm_cm_ht_107.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "DA",
+    "LK",
+    "DP",
+    "Physical Block Probability"
+  ],
+  "attributes": {
+    "AC": "2~15",
+    "DA": "4~18",
+    "LK": "2~15",
+    "DP": "72~288"
+  }
+}

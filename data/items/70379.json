@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70379",
+  "title": "Azhi the Drake 70",
+  "imageFile": "itm_cm_pet_116.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "MP": "196~882",
+    "MA": "7~21",
+    "MD": "56~252",
+    "MP Recovery Rate": "3",
+    "LK": "7~21",
+    "HP": "196~882",
+    "HP Recovery Rate": "2"
+  }
+}

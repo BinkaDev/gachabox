@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70747",
+  "title": "Singha 90",
+  "imageFile": "itm_cm_pet_135.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "90",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "72~324",
+    "AC": "9~27",
+    "MP Recovery Rate": "3",
+    "DA": "9~27",
+    "LK": "4~20",
+    "HP": "252~1134",
+    "HP Recovery Rate": "3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18811",
+  "title": "Dragon Shield 70",
+  "imageFile": "itm_cm_sd_088.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "35",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "DP",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MP": "147~784",
+    "MD": "70~308",
+    "LK": "2~14",
+    "DP": "42~224"
+  }
+}

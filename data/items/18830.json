@@ -1,0 +1,24 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18830",
+  "title": "Dragon Shield 190",
+  "imageFile": "itm_cm_sd_088.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "95",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "DP",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MP": "399~2128",
+    "MD": "190~836",
+    "LK": "7~38",
+    "DP": "114~608"
+  }
+}

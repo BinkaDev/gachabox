@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35150",
+  "title": "Wooly Sheep Cape 210",
+  "imageFile": "itm_cm_ck_024.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "21",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "882~2940",
+    "MA": "15~52",
+    "MD": "420~420",
+    "LK": "15~52",
+    "HP": "882~2940",
+    "DP": "210~210"
+  }
+}

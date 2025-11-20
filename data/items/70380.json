@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70380",
+  "title": "Azhi the Drake 140",
+  "imageFile": "itm_cm_pet_116.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "140",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "MP": "392~1764",
+    "MA": "14~42",
+    "MD": "112~504",
+    "MP Recovery Rate": "4",
+    "LK": "14~42",
+    "HP": "392~1764",
+    "HP Recovery Rate": "3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://knowledge.lifeto.co/items/76404",
+  "title": "Vicious Bowgun 90",
+  "imageFile": "itm_cm_gun_027.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "90",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "LK"
+  ],
+  "attributes": {
+    "Gun AP": "108~468",
+    "AC": "4~20",
+    "LK": "4~20"
+  }
+}

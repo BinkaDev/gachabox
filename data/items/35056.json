@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35056",
+  "title": "Wooly Sheep Cape 90",
+  "imageFile": "itm_cm_ck_024.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "9",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "378~1260",
+    "MA": "6~22",
+    "MD": "180~180",
+    "LK": "6~22",
+    "HP": "378~1260",
+    "DP": "90~90"
+  }
+}

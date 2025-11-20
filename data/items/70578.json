@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70578",
+  "title": "Amelie 210",
+  "imageFile": "itm_cm_pet_099.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AC": "10~47",
+    "MP": "588~2646",
+    "MA": "21~63",
+    "MP Recovery Rate": "5",
+    "LK": "21~63",
+    "HP": "588~2646",
+    "HP Recovery Rate": "5"
+  }
+}

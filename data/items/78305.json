@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78305",
+  "title": "Thick Sheep Shield 210",
+  "imageFile": "itm_cm_sd_077.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "DP",
+    "Water Resistance"
+  ],
+  "attributes": {
+    "MP": "441~2352",
+    "MD": "210~924",
+    "LK": "7~42",
+    "DP": "126~672"
+  }
+}

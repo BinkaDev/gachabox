@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18694",
+  "title": "Thick Sheep Shield 50",
+  "imageFile": "itm_cm_sd_077.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "25",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "DP",
+    "Water Resistance"
+  ],
+  "attributes": {
+    "MP": "105~560",
+    "MD": "50~220",
+    "LK": "1~10",
+    "DP": "30~160"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17756",
+  "title": "Comfy Sheep Hat 90",
+  "imageFile": "itm_cm_ht_076.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "DP"
+  ],
+  "attributes": {
+    "MP": "126~882",
+    "MA": "4~18",
+    "MD": "72~288",
+    "DP": "36~252"
+  }
+}

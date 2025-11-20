@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17930",
+  "title": "Double Dragon Hat 190",
+  "imageFile": "itm_cm_ht_087.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "95",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MA",
+    "LK",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MA": "9~38",
+    "MD": "152~608",
+    "LK": "4~33",
+    "DP": "76~532"
+  }
+}

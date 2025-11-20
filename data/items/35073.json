@@ -1,0 +1,27 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35073",
+  "title": "Dragon Cape 70",
+  "imageFile": "itm_cm_ck_028.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "LK",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "AC": "5~17",
+    "MP": "294~980",
+    "MA": "5~17",
+    "MD": "140~140",
+    "LK": "5~17",
+    "DP": "70~70"
+  }
+}

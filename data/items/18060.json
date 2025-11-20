@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18060",
+  "title": "Dragon Vest 190",
+  "imageFile": "itm_cm_clo_017.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "19",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "MD",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "532~2128",
+    "MA": "9~38",
+    "MD": "152~608",
+    "LK": "14~47",
+    "HP": "798~2660"
+  }
+}

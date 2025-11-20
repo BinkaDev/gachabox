@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17258",
+  "title": "Double Dragon Rod 30",
+  "imageFile": "itm_cm_wp_094.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "30",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "MP": "84~378",
+    "MA": "2~9",
+    "LK": "1~6"
+  }
+}

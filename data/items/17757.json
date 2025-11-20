@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17757",
+  "title": "Comfy Sheep Hat 150",
+  "imageFile": "itm_cm_ht_076.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "75",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "DP"
+  ],
+  "attributes": {
+    "MP": "210~1470",
+    "MA": "7~30",
+    "MD": "120~480",
+    "DP": "60~420"
+  }
+}

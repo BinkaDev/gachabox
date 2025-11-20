@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70287",
+  "title": "Amelie 150",
+  "imageFile": "itm_cm_pet_099.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "150",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AC": "7~33",
+    "MP": "420~1890",
+    "MA": "15~45",
+    "MP Recovery Rate": "5",
+    "LK": "15~45",
+    "HP": "420~1890",
+    "HP Recovery Rate": "4"
+  }
+}

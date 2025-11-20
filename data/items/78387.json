@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78387",
+  "title": "Lion's Defender 210",
+  "imageFile": "itm_cm_sd_108.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "DA",
+    "LK"
+  ],
+  "attributes": {
+    "MD": "126~672",
+    "DA": "7~42",
+    "LK": "7~42",
+    "DP": "210~924"
+  }
+}

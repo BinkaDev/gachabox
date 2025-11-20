@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18043",
+  "title": "Dragon Vest 30",
+  "imageFile": "itm_cm_clo_017.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "3",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "MD",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "84~336",
+    "MA": "1~6",
+    "MD": "24~96",
+    "LK": "2~7",
+    "HP": "126~420"
+  }
+}

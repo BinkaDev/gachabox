@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17194",
+  "title": "Sweet Marshmallow Hammer 50",
+  "imageFile": "itm_cm_wp_083.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "50",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "Water Attribute"
+  ],
+  "attributes": {
+    "MP": "140~630",
+    "MA": "3~16",
+    "LK": "2~11"
+  }
+}

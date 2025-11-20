@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75090",
+  "title": "Fox Bane 90",
+  "imageFile": "itm_cm_wp_113.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "90",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "DA",
+    "LK",
+    "Electric Attribute"
+  ],
+  "attributes": {
+    "AP": "72~324",
+    "DA": "6~29",
+    "LK": "4~20"
+  }
+}

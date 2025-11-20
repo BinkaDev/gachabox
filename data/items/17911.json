@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17911",
+  "title": "Double Dragon Hat 70",
+  "imageFile": "itm_cm_ht_087.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "35",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MA",
+    "LK",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MA": "3~14",
+    "MD": "56~224",
+    "LK": "1~12",
+    "DP": "28~196"
+  }
+}

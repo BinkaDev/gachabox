@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70749",
+  "title": "Singha 210",
+  "imageFile": "itm_cm_pet_135.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "168~756",
+    "AC": "21~63",
+    "MP Recovery Rate": "5",
+    "DA": "21~63",
+    "LK": "10~47",
+    "HP": "588~2646",
+    "HP Recovery Rate": "5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17758",
+  "title": "Double Dragon Hat 30",
+  "imageFile": "itm_cm_ht_087.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MA",
+    "LK",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MA": "1~6",
+    "MD": "24~96",
+    "LK": "0~5",
+    "DP": "12~84"
+  }
+}

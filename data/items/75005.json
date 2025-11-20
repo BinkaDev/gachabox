@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75005",
+  "title": "Sweet Marshmallow Hammer 210",
+  "imageFile": "itm_cm_wp_083.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "Water Attribute"
+  ],
+  "attributes": {
+    "MP": "588~2646",
+    "MA": "15~68",
+    "LK": "10~47"
+  }
+}

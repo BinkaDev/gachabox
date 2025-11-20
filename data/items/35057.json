@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35057",
+  "title": "Wooly Sheep Cape 150",
+  "imageFile": "itm_cm_ck_024.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "630~2100",
+    "MA": "11~37",
+    "MD": "300~300",
+    "LK": "11~37",
+    "HP": "630~2100",
+    "DP": "150~150"
+  }
+}

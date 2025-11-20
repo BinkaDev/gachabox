@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35096",
+  "title": "Pride Lord's Drape 50",
+  "imageFile": "itm_cm_ck_041.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "5",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "DA",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "AC": "2~10",
+    "MD": "128~128",
+    "DA": "2~10",
+    "LK": "2~10",
+    "HP": "140~560",
+    "DP": "64~64"
+  }
+}

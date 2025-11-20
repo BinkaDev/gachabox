@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18835",
+  "title": "Lion's Defender 50",
+  "imageFile": "itm_cm_sd_108.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "25",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "DA",
+    "LK"
+  ],
+  "attributes": {
+    "MD": "30~160",
+    "DA": "1~10",
+    "LK": "1~10",
+    "DP": "50~220"
+  }
+}

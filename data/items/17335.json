@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17335",
+  "title": "Fox Bane 50",
+  "imageFile": "itm_cm_wp_113.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "50",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "DA",
+    "LK",
+    "Electric Attribute"
+  ],
+  "attributes": {
+    "AP": "40~180",
+    "DA": "3~16",
+    "LK": "2~11"
+  }
+}

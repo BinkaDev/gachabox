@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78385",
+  "title": "Lion's Defender 90",
+  "imageFile": "itm_cm_sd_108.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "45",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MD",
+    "DA",
+    "LK"
+  ],
+  "attributes": {
+    "MD": "54~288",
+    "DA": "3~18",
+    "LK": "3~18",
+    "DP": "90~396"
+  }
+}

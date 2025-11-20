@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17312",
+  "title": "Double Dragon Rod 140",
+  "imageFile": "itm_cm_wp_094.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "140",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "LK",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "MP": "392~1764",
+    "MA": "10~45",
+    "LK": "7~31"
+  }
+}

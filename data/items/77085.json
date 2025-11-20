@@ -1,0 +1,24 @@
+{
+  "url": "https://knowledge.lifeto.co/items/77085",
+  "title": "Mane of Night 210",
+  "imageFile": "itm_cm_ht_107.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "DA",
+    "LK",
+    "DP",
+    "Physical Block Probability"
+  ],
+  "attributes": {
+    "AC": "5~36",
+    "DA": "10~42",
+    "LK": "5~36",
+    "DP": "168~672"
+  }
+}

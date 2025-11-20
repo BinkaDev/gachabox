@@ -119,7 +119,8 @@ const tagKR = {
 
   document.getElementById("boxDesc").textContent =
     box.description || "설명 없음";
-
+  document.getElementById("boxPrice").textContent =
+    box.price || "개발중";
   
   renderBoxItems(box.items || []);
 

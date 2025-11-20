@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70454",
+  "title": "Singha 50",
+  "imageFile": "itm_cm_pet_135.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "50",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "40~180",
+    "AC": "5~15",
+    "MP Recovery Rate": "2",
+    "DA": "5~15",
+    "LK": "2~11",
+    "HP": "140~630",
+    "HP Recovery Rate": "2"
+  }
+}

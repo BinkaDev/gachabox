@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75092",
+  "title": "Fox Bane 210",
+  "imageFile": "itm_cm_wp_113.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "DA",
+    "LK",
+    "Electric Attribute"
+  ],
+  "attributes": {
+    "AP": "168~756",
+    "DA": "15~68",
+    "LK": "10~47"
+  }
+}

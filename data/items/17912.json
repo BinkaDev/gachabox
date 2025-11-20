@@ -1,0 +1,23 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17912",
+  "title": "Double Dragon Hat 140",
+  "imageFile": "itm_cm_ht_087.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MA",
+    "LK",
+    "Light Resistance",
+    "Dark Resistance"
+  ],
+  "attributes": {
+    "MA": "7~28",
+    "MD": "112~448",
+    "LK": "3~24",
+    "DP": "56~392"
+  }
+}

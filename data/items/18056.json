@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18056",
+  "title": "Dragon Vest 70",
+  "imageFile": "itm_cm_clo_017.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "MP",
+    "MA",
+    "MD",
+    "LK",
+    "HP"
+  ],
+  "attributes": {
+    "MP": "196~784",
+    "MA": "3~14",
+    "MD": "56~224",
+    "LK": "5~17",
+    "HP": "294~980"
+  }
+}
