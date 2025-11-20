@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/17947",
+  "title": "Rabbit Ears 30",
+  "imageFile": "itm_cm_ht_109.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "HP"
+  ],
+  "attributes": {
+    "AC": "1~6",
+    "MD": "12~84",
+    "HP": "42~294",
+    "DP": "24~96"
+  }
+}

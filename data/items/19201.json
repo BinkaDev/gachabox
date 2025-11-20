@@ -1,0 +1,27 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19201",
+  "title": "Dragon Ring 30",
+  "imageFile": "itm_cm_acc_058.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "3",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "LK",
+    "HP",
+    "Light Attribute",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "AC": "1~6",
+    "MP": "126~420",
+    "MA": "2~7",
+    "LK": "1~6",
+    "HP": "84~336"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18084",
+  "title": "Baby Bun Onesie 70",
+  "imageFile": "itm_cm_clo_020.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "DP"
+  ],
+  "attributes": {
+    "AP": "56~224",
+    "AC": "5~17",
+    "LK": "3~14",
+    "HP": "294~980",
+    "DP": "56~224"
+  }
+}

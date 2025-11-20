@@ -1,0 +1,27 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19243",
+  "title": "Dragon Ring 70",
+  "imageFile": "itm_cm_acc_058.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "LK",
+    "HP",
+    "Light Attribute",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "AC": "3~14",
+    "MP": "294~980",
+    "MA": "5~17",
+    "LK": "3~14",
+    "HP": "196~784"
+  }
+}

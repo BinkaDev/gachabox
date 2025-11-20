@@ -1,0 +1,27 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19336",
+  "title": "Dragon Ring 190",
+  "imageFile": "itm_cm_acc_058.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "19",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "LK",
+    "HP",
+    "Light Attribute",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "AC": "9~38",
+    "MP": "798~2660",
+    "MA": "14~47",
+    "LK": "9~38",
+    "HP": "532~2128"
+  }
+}

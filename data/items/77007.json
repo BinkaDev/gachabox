@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/77007",
+  "title": "Rabbit Ears 140",
+  "imageFile": "itm_cm_ht_109.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "HP"
+  ],
+  "attributes": {
+    "AC": "7~28",
+    "MD": "56~392",
+    "HP": "196~1372",
+    "DP": "112~448"
+  }
+}

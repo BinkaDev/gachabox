@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75008",
+  "title": "Bunny's Smasher 190",
+  "imageFile": "itm_cm_wp_114.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "190",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "LK",
+    "Water Attribute"
+  ],
+  "attributes": {
+    "AP": "228~988",
+    "AC": "9~42",
+    "LK": "9~42"
+  }
+}

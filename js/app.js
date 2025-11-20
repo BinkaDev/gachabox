@@ -78,7 +78,7 @@ function renderBox(box) {
 const tagKR = {
   "Use Item": "사용 아이템",
   "Untradeable": "거래불가",
-  "Undroppable": "버리기",
+  "Undroppable": "버리기불가",
   
 };
 
@@ -220,6 +220,10 @@ const statKR = {
   "MP Recovery Rate": "마나 회복",
   "HP Recovery Rate": "체력 회복",
   "Wind Attribute": "공기 속성",
+  "Dark Attribute": "어둠 속성",
+  "Light Attribute": "빛 속성",
+  "Earth Attribute": "토양 속성",
+
   
 };
 

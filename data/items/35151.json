@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35151",
+  "title": "Bunny Cape 70",
+  "imageFile": "itm_cm_ck_042.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "84~280",
+    "AC": "3~14",
+    "MD": "160~160",
+    "LK": "3~14",
+    "DP": "80~80",
+    "HV": "3~14"
+  }
+}

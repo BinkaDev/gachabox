@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35153",
+  "title": "Bunny Cape 190",
+  "imageFile": "itm_cm_ck_042.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "19",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "228~760",
+    "AC": "9~38",
+    "MD": "448~448",
+    "LK": "9~38",
+    "DP": "224~224",
+    "HV": "9~38"
+  }
+}

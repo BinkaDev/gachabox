@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78307",
+  "title": "Bunny's Blocker 140",
+  "imageFile": "itm_cm_sd_109.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "LK"
+  ],
+  "attributes": {
+    "AC": "5~28",
+    "MD": "84~448",
+    "LK": "5~28",
+    "DP": "140~616"
+  }
+}

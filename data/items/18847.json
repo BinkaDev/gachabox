@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18847",
+  "title": "Bunny's Blocker 30",
+  "imageFile": "itm_cm_sd_109.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "LK"
+  ],
+  "attributes": {
+    "AC": "1~6",
+    "MD": "18~96",
+    "LK": "1~6",
+    "DP": "30~132"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70467",
+  "title": "Lina 30",
+  "imageFile": "itm_cm_pet_137.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "30",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "48~144",
+    "AC": "3~9",
+    "MP Recovery Rate": "2",
+    "HP": "84~378",
+    "DP": "24~108",
+    "HV": "1~6",
+    "HP Recovery Rate": "2"
+  }
+}

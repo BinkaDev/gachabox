@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75006",
+  "title": "Bunny's Smasher 70",
+  "imageFile": "itm_cm_wp_114.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "LK",
+    "Water Attribute"
+  ],
+  "attributes": {
+    "AP": "84~364",
+    "AC": "3~15",
+    "LK": "3~15"
+  }
+}

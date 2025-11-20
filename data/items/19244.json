@@ -1,0 +1,27 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19244",
+  "title": "Dragon Ring 140",
+  "imageFile": "itm_cm_acc_058.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "14",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "LK",
+    "HP",
+    "Light Attribute",
+    "Dark Attribute"
+  ],
+  "attributes": {
+    "AC": "7~28",
+    "MP": "588~1960",
+    "MA": "10~35",
+    "LK": "7~28",
+    "HP": "392~1568"
+  }
+}

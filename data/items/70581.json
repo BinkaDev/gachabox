@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70581",
+  "title": "Lina 190",
+  "imageFile": "itm_cm_pet_137.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "190",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "304~912",
+    "AC": "19~57",
+    "MP Recovery Rate": "4",
+    "HP": "532~2394",
+    "DP": "152~684",
+    "HV": "9~42",
+    "HP Recovery Rate": "5"
+  }
+}

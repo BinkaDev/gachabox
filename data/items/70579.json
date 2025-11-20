@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70579",
+  "title": "Lina 70",
+  "imageFile": "itm_cm_pet_137.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "70",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "112~336",
+    "AC": "7~21",
+    "MP Recovery Rate": "2",
+    "HP": "196~882",
+    "DP": "56~252",
+    "HV": "3~15",
+    "HP Recovery Rate": "4"
+  }
+}

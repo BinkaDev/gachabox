@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78308",
+  "title": "Bunny's Blocker 190",
+  "imageFile": "itm_cm_sd_109.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "95",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MD",
+    "LK"
+  ],
+  "attributes": {
+    "AC": "7~38",
+    "MD": "114~608",
+    "LK": "7~38",
+    "DP": "190~836"
+  }
+}
