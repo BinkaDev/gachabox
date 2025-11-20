@@ -293,3 +293,41 @@ function renderItemDetail(itemData, boxItemMeta) {
     ` : `<div class="muted">상세 스탯 정보가 없습니다.</div>`}
   `;
 }
+
+// =======================
+// Search Auto-Filter
+// =======================
+document.getElementById("boxSearch").addEventListener("input", function () {
+    const keyword = this.value.trim().toLowerCase();
+    const select = document.getElementById("boxSelect");
+
+    // 전체 박스 목록에서 필터
+    const filtered = boxes.filter(b =>
+        b.title.toLowerCase().includes(keyword)
+    );
+
+    // 드롭다운 다시 채우기
+    select.innerHTML = "";
+
+    filtered.forEach((b, idx) => {
+        const opt = document.createElement("option");
+        opt.value = boxes.indexOf(b); // 전체 배열 기준 index 사용
+        opt.textContent = b.title;
+        select.appendChild(opt);
+    });
+
+    // 검색결과가 있으면 첫 번째 박스 자동 표시
+    if (filtered.length > 0) {
+        renderBox(filtered[0]);
+    } else {
+        // 없으면 초기화
+        document.getElementById("boxImage").style.visibility = "hidden";
+        document.getElementById("boxTitle").textContent = "-";
+        document.getElementById("boxTags").innerHTML = "";
+        document.getElementById("boxStats").innerHTML = "";
+        document.getElementById("boxDesc").textContent = "-";
+        document.getElementById("itemsTbody").innerHTML = "";
+        document.getElementById("boxItemCount").textContent = "0 items";
+        document.getElementById("itemDetailArea").textContent = "검색 결과 없음.";
+    }
+});
