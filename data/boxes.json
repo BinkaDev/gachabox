@@ -52,14 +52,14 @@
       "rate": "22.55%"
     },
     {
-      "id": "431637",
+      "id": "19236",
       "name": "Buffalo Accessory 50",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "1,900"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61815",
@@ -120,14 +120,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431638",
+      "id": "19355",
       "name": "Buffalo Accessory 90",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "2,250"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61816",
@@ -188,14 +188,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431639",
+      "id": "19356",
       "name": "Buffalo Accessory 150",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "3,150"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61817",
@@ -256,14 +256,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431640",
+      "id": "19357",
       "name": "Buffalo Accessory 210",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "3,600"
 },
 {
   "comment" : "토끼 캐릭터 박스",
@@ -318,14 +318,14 @@
       "rate": "22.77%"
     },
     {
-      "id": "431730",
+      "id": "19351",
       "name": "Bunny Accessory Box 30",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "1,800"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62010",
@@ -386,14 +386,14 @@
       "rate": "12.87%"
     },
     {
-      "id": "431731",
+      "id": "19392",
       "name": "Bunny Accessory Box 70",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "0.99%"
     }
   ],
-"price" : "314"
+"price" : "2,250"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62011",
@@ -454,14 +454,14 @@
       "rate": "12.87%"
     },
     {
-      "id": "431732",
+      "id": "19393",
       "name": "Bunny Accessory Box 140",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "3,150"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62012",
@@ -522,14 +522,14 @@
       "rate": "12.87%"
     },
     {
-      "id": "431733",
+      "id": "19394",
       "name": "Bunny Accessory Box 190",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "0.99%"
     }
   ],
-"price" : "314"
+"price" : "3,600"
 },
 {
   "comment" : "양 캐릭터 박스",
@@ -591,14 +591,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431726",
+      "id": "19166",
       "name": "Sheep Accessory Box 50",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "1,900"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62001",
@@ -659,14 +659,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431727",
+      "id": "19199",
       "name": "Sheep Accessory Box 90",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "2,250"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62002",
@@ -727,14 +727,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431728",
+      "id": "19200",
       "name": "Sheep Accessory Box 150",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "3,150"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62003",
@@ -795,14 +795,14 @@
       "rate": "12.75%"
     },
     {
-      "id": "431729",
+      "id": "19379",
       "name": "Sheep Accessory Box 210",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "3,600"
 },
 {
   "comment" : "용 캐릭터 박스",
@@ -864,7 +864,7 @@
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "1,800"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61711",
@@ -932,7 +932,7 @@
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "2,250"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61713",
@@ -955,52 +955,52 @@
       "name": "Azhi the Drake 140",
       "imgFile": "itm_cm_pet_116.nri.000.000.png",
       "count": "1",
-      "rate": "4.9%"
+      "rate": "4.76%"
     },
     {
       "id": "17312",
       "name": "Double Dragon Rod 140",
       "imgFile": "itm_cm_wp_094.nri.000.000.png",
       "count": "1",
-      "rate": "19.61%"
+      "rate": "19.05%"
     },
     {
       "id": "18812",
       "name": "Dragon Shield 140",
       "imgFile": "itm_cm_sd_088.nri.000.000.png",
       "count": "1",
-      "rate": "19.61%"
+      "rate": "19.05%"
     },
     {
       "id": "17912",
       "name": "Double Dragon Hat 140",
       "imgFile": "itm_cm_ht_087.nri.000.000.png",
       "count": "1",
-      "rate": "19.61%"
+      "rate": "19.05%"
     },
     {
       "id": "18057",
       "name": "Dragon Vest 140",
       "imgFile": "itm_cm_clo_017.nri.000.000.png",
       "count": "1",
-      "rate": "21.57%"
+      "rate": "20.95%"
     },
     {
       "id": "35074",
       "name": "Dragon Cape 140",
       "imgFile": "itm_cm_ck_028.nri.000.000.png",
       "count": "1",
-      "rate": "12.75%"
+      "rate": "12.38%"
     },
     {
       "id": "19244",
       "name": "Dragon Accessory 140",
       "imgFile": "itm_pre_001.nri.000.000.png",
       "count": "1",
-      "rate": "1.96%"
+      "rate": "4.76%"
     }
   ],
-  "price" : "314"
+  "price" : "3,150"
 },
 {
   "url": "https://knowledge.lifeto.co/items/61715",
@@ -1068,7 +1068,7 @@
       "rate": "1.96%"
     }
   ],
-  "price" : "314"
+  "price" : "3,600"
 },
 {
   "comment" : "사자 캐릭터 박스",
@@ -1137,7 +1137,7 @@
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "1,900"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62294",
@@ -1205,7 +1205,7 @@
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "2,250"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62295",
@@ -1273,7 +1273,7 @@
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "3,150"
 },
 {
   "url": "https://knowledge.lifeto.co/items/62296",
@@ -1341,6 +1341,6 @@
       "rate": "0.99%"
     }
   ],
-  "price" : "314"
+  "price" : "3,600"
 }
 ]

@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19236",
+  "title": "Black Bison's Gauntlet 50",
+  "imageFile": "itm_cm_acc_063.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "5",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "MP",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "60~200",
+    "AC": "3~12",
+    "MP": "140~560",
+    "HP": "140~560",
+    "HV": "2~10"
+  }
+}

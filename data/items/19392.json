@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19392",
+  "title": "Bunny Brooch 70",
+  "imageFile": "itm_cm_acc_074.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 70",
+    "Value": "0",
+    "Weight": "7",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "84~280",
+    "AC": "5~17",
+    "LK": "3~14",
+    "HP": "196~784",
+    "HV": "3~14"
+  }
+}

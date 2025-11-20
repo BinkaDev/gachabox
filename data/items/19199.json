@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19199",
+  "title": "Wooly Sheep Earmuffs 90",
+  "imageFile": "itm_cm_acc_049.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "9",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AC",
+    "MP",
+    "MA",
+    "MD",
+    "LK"
+  ],
+  "attributes": {
+    "AC": "4~18",
+    "MP": "252~1008",
+    "MA": "6~22",
+    "MD": "72~288",
+    "LK": "6~22"
+  }
+}

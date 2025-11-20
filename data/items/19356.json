@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19356",
+  "title": "Black Bison's Gauntlet 150",
+  "imageFile": "itm_cm_acc_063.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "MP",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "180~600",
+    "AC": "11~37",
+    "MP": "420~1680",
+    "HP": "420~1680",
+    "HV": "7~30"
+  }
+}

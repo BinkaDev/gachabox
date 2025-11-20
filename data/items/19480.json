@@ -1,7 +1,7 @@
 {
-  "url": "https://knowledge.lifeto.co/items/19237",
-  "title": "Black Bison's Ring 50",
-  "imageFile": "itm_cm_acc_063.nri.001.000.png",
+  "url": "https://knowledge.lifeto.co/items/19480",
+  "title": "Pride Lord's Seal 50",
+  "imageFile": "itm_cm_acc_072.nri.000.000.png",
   "table": {
     "Level": "Lv. 50",
     "Value": "0",
@@ -12,14 +12,14 @@
     "AP",
     "AC",
     "MP",
-    "LK",
-    "HP"
+    "DA",
+    "LK"
   ],
   "attributes": {
     "AP": "40~160",
     "AC": "3~12",
     "MP": "140~560",
-    "LK": "2~10",
-    "HP": "210~700"
+    "DA": "3~12",
+    "LK": "2~10"
   }
 }

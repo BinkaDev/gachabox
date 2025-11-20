@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19351",
+  "title": "Bunny Brooch 30",
+  "imageFile": "itm_cm_acc_074.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 30",
+    "Value": "0",
+    "Weight": "3",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "36~120",
+    "AC": "2~7",
+    "LK": "1~6",
+    "HP": "84~336",
+    "HV": "1~6"
+  }
+}

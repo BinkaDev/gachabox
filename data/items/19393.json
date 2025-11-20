@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19393",
+  "title": "Bunny Brooch 140",
+  "imageFile": "itm_cm_acc_074.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 140",
+    "Value": "0",
+    "Weight": "14",
+    "Slots": "3~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "168~560",
+    "AC": "10~35",
+    "LK": "7~28",
+    "HP": "392~1568",
+    "HV": "7~28"
+  }
+}
