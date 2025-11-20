@@ -127,7 +127,7 @@ const tagKR = {
 
   const detailArea = document.getElementById("itemDetailArea");
   detailArea.classList.add("muted");
-  detailArea.innerHTML = "아이템을 클릭하면 상세 정보를 보여줄게.";
+  detailArea.innerHTML = "아이템을 클릭해주세요.";
 }
 
 
@@ -223,6 +223,7 @@ const statKR = {
   "Dark Attribute": "어둠 속성",
   "Light Attribute": "빛 속성",
   "Earth Attribute": "토양 속성",
+  "Electric Attribute" : "전기 속성"
 
   
 };
