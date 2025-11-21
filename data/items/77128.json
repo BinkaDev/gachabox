@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/77128",
+  "title": "Bandit Hat 210",
+  "imageFile": "itm_cm_ht_124.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "MD": "84~588",
+    "HP": "294~2058",
+    "DP": "168~672",
+    "HV": "10~42"
+  }
+}

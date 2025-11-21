@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/75143",
+  "title": "Cane Sword 210",
+  "imageFile": "itm_cm_wp_124.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "210",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "HP",
+    "HV",
+    "Water Attribute"
+  ],
+  "attributes": {
+    "AP": "168~756",
+    "HP": "588~2646",
+    "HV": "15~68"
+  }
+}

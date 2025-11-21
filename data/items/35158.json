@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35158",
+  "title": "Coldvice's Cape 50",
+  "imageFile": "itm_cm_ck_049.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "5",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "40~160",
+    "AC": "2~10",
+    "MD": "128~128",
+    "HP": "140~560",
+    "DP": "64~64",
+    "HV": "2~10"
+  }
+}

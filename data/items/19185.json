@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/19185",
+  "title": "Kitty Earring 190",
+  "imageFile": "itm_cm_acc_046.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 190",
+    "Value": "0",
+    "Weight": "19",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "152~608",
+    "AC": "9~38",
+    "LK": "14~47",
+    "HP": "532~2128",
+    "HV": "14~47"
+  }
+}

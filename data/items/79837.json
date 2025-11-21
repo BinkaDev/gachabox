@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/79837",
+  "title": "Coldvice's Loop 90",
+  "imageFile": "itm_cm_acc_082.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "9",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "DP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "72~288",
+    "AC": "4~18",
+    "HP": "378~1260",
+    "DP": "72~288",
+    "HV": "6~22"
+  }
+}

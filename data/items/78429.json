@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78429",
+  "title": "Coldvice's Bulwark 210",
+  "imageFile": "itm_cm_sd_124.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "105",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "MD": "126~672",
+    "HP": "441~2352",
+    "DP": "210~924",
+    "HV": "7~42"
+  }
+}

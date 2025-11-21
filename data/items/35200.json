@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/35200",
+  "title": "Coldvice's Cape 210",
+  "imageFile": "itm_cm_ck_049.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "21",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "168~672",
+    "AC": "10~42",
+    "MD": "420~420",
+    "HP": "588~2352",
+    "DP": "210~210",
+    "HV": "10~42"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78428",
+  "title": "Coldvice's Bulwark 150",
+  "imageFile": "itm_cm_sd_124.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "75",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "MD": "90~480",
+    "HP": "315~1680",
+    "DP": "150~660",
+    "HV": "5~30"
+  }
+}

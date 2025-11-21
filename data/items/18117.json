@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/18117",
+  "title": "Striped Leather Belt 150",
+  "imageFile": "itm_cm_clo_027.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "LK",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "120~480",
+    "AC": "7~30",
+    "LK": "7~30",
+    "HP": "630~2100",
+    "HV": "11~37"
+  }
+}

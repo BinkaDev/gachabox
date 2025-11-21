@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/79839",
+  "title": "Coldvice's Loop 150",
+  "imageFile": "itm_cm_acc_082.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "15",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "DP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "120~480",
+    "AC": "7~30",
+    "HP": "630~2100",
+    "DP": "120~480",
+    "HV": "11~37"
+  }
+}

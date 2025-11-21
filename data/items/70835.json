@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70835",
+  "title": "Roan Coldvice 150",
+  "imageFile": "itm_cm_pet_149.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 150",
+    "Value": "0",
+    "Weight": "150",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "120~540",
+    "AC": "7~33",
+    "MP Recovery Rate": "3",
+    "HP": "840~2520",
+    "DP": "120~540",
+    "HV": "15~45",
+    "HP Recovery Rate": "5"
+  }
+}

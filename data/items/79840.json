@@ -1,0 +1,25 @@
+{
+  "url": "https://knowledge.lifeto.co/items/79840",
+  "title": "Coldvice's Loop 210",
+  "imageFile": "itm_cm_acc_082.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 210",
+    "Value": "0",
+    "Weight": "21",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "AP",
+    "AC",
+    "HP",
+    "DP",
+    "HV"
+  ],
+  "attributes": {
+    "AP": "168~672",
+    "AC": "10~42",
+    "HP": "882~2940",
+    "DP": "168~672",
+    "HV": "15~52"
+  }
+}

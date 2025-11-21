@@ -1,0 +1,21 @@
+{
+  "url": "https://knowledge.lifeto.co/items/70834",
+  "title": "Roan Coldvice 90",
+  "imageFile": "itm_cm_pet_149.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 90",
+    "Value": "0",
+    "Weight": "90",
+    "Slots": "1"
+  },
+  "compoundable": [],
+  "attributes": {
+    "AP": "72~324",
+    "AC": "4~20",
+    "MP Recovery Rate": "2",
+    "HP": "504~1512",
+    "DP": "72~324",
+    "HV": "9~27",
+    "HP Recovery Rate": "4"
+  }
+}

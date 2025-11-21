@@ -1,0 +1,22 @@
+{
+  "url": "https://knowledge.lifeto.co/items/78350",
+  "title": "Coldvice's Bulwark 50",
+  "imageFile": "itm_cm_sd_124.nri.000.000.png",
+  "table": {
+    "Level": "Lv. 50",
+    "Value": "0",
+    "Weight": "25",
+    "Slots": "2~4"
+  },
+  "compoundable": [
+    "MD",
+    "HP",
+    "HV"
+  ],
+  "attributes": {
+    "MD": "30~160",
+    "HP": "105~560",
+    "DP": "50~220",
+    "HV": "1~10"
+  }
+}
